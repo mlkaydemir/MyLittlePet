@@ -30,7 +30,7 @@ Projenin özelliklerini ve akışını gösteren tanıtım videosuna buradan ula
 ## 📥 İndirilebilir APK
 
 Uygulamanın derlenmiş APK dosyasını aşağıdaki dizinde bulabilir veya linkten indirebilirsiniz:  
-👉 **[MyLittlePet.apk İndir](./android_build/MyLittlePet.apk)** *(Veya GitHub Releases kısmından ulaşabilirsiniz)*
+👉 **[MyLittlePet.apk İndir](https://github.com/mlkaydemir/MyLittlePet/releases/download/v1.0.0/app-debug.apk)** *(Veya GitHub Releases kısmından ulaşabilirsiniz)*
 
 ---
 
