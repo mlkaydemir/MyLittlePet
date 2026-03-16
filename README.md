@@ -45,8 +45,8 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 ### Adımlar:
 1. **Depoyu klonlayın:**
    ```bash
-   git clone https://github.com/mlkaydemir/modum.git
-   cd modum
+   git clone https://github.com/mlkaydemir/MyLittlePet.git
+   cd MyLittlePet
    ```
 
 2. **Bağımlılıkları yükleyin:**
@@ -64,11 +64,6 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-*Not: Ekran görüntülerinizi `./assets/screenshots/` altına ekleyip README'yi buna göre güncelleyebilirsiniz.*
-
----
 
 ## 💻 Teknoloji Yığını (Tech Stack)
 - **Framework:** React Native (Expo SDK 52)
